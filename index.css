@@ -1,0 +1,17 @@
+body{
+	background-color:#1E1E1E;
+}
+#image{
+	margin-left:400px;
+	margin-right:400px;
+	border-bottom:solid #AEE800 3px;
+	text-align:center;
+}
+#text{
+	text-align:center;
+}
+p{
+	font-family:Arial;
+	font-size:45px;
+	color:#AEE800;
+}
